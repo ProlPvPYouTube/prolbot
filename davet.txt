@@ -1,0 +1,2 @@
+MayApps:https://discordapp.com/developers/applications/518717742279557142/bots
+Davet:https://discordapp.com/oauth2/authorize?client_id=518717742279557142&scope=bot&permissions=2146958847
